@@ -1,0 +1,12 @@
+Index: Test01.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Test01.py b/Test01.py
+new file mode 100644
+--- /dev/null	(date 1609749775471)
++++ b/Test01.py	(date 1609749775471)
+@@ -0,0 +1,1 @@
++print("Hello new year")
+\ No newline at end of file
